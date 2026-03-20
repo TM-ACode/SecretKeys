@@ -164,4 +164,6 @@ if __name__ == '__main__':
         f.write(detect_secrets)
     with open('benchmarking' + os.path.sep + 'GITLEAKS.md', 'w+') as f:
         f.write(gitleaks)
-        
+
+############################
+#############################
